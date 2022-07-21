@@ -21,7 +21,7 @@ BASE_WEATHER_API_URL = "http://api.openweathermap.org/data/2.5/weather"
 
 def read_user_cli_args():
     # Handles command line user interactions
-
+# fa
     parser = argparse.ArgumentParser(
         description = "gets weather and temperature information"
     )
